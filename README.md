@@ -21,3 +21,7 @@ To use this generator some steps are required to use:
 - Once all prompts are finished and complete, markdown file will be stored in the `dist` folder.
 
 ![Screenshot of command line](./assets/images/console-screenshot.jpg "screenshot of console")
+
+## Video Demo
+
+Video demo of console prompts can be found on my google drive [HERE](https://drive.google.com/file/d/1e_SBZUoO5FQOJ_4tzTCwXiMuGthHgSFc/view?usp=sharing)
